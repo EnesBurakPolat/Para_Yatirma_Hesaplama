@@ -9,7 +9,7 @@
 #define IDC_INTEREST_LABEL 105
 #define IDC_CALCULATE_BUTTON 104
 
-// g++ -o Para_Yatirma_Hesaplama.exe Para_Yatirma_Hesaplama.cpp -mwindows
+// g++ -o Para_Yatirma_Hesaplama.exe Para_Yatirma_Hesaplama.cpp -mwindows -static -static-libgcc -static-libstdc++
 
 using namespace std;
 
